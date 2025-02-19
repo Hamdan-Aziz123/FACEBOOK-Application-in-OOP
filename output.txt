@@ -1,0 +1,330 @@
+Command:        Set current user u7
+Abdullah Nadeem successfully set as current user
+
+Command:        View Friend List
+
+ ----------------------------------------------------------
+Abdullah Nadeem - Friend List
+u3 - Waheed Khan
+u11 - Ahsan Ali
+u12 - Ali Ahmed
+
+ ----------------------------------------------------------
+
+Command:        View Liked Pages
+
+ ----------------------------------------------------------
+Abdullah Nadeem - Liked Pages
+p1 - Food Fusion
+p2 - Al Jazeera English
+p5 - Rumi Quotes
+p9 - BBC News
+
+ ----------------------------------------------------------
+
+
+Command:        View Home
+----------------------------------------------------------
+Abdullah Nadeem- Home Page
+
+---Waheed Khan is Feeling excited   14 / 11 / 2017
+"OOP Project Started Yayy...."
+
+                        Amna Akram wrote: "Best of Luck"
+                        Abdullah Nadeem wrote: "Interesting"
+
+
+
+
+---Ahsan Ali shared "Waiting for Weekend"
+14 / 11 / 2017
+
+                        Saad Ali wrote: "Any plans for Get Together?"
+                        Abdullah Nadeem wrote: "Yes BBQ"
+                        Nimra Batool wrote: "Lunch Buffet please"
+
+
+
+---Ali Ahmed shared "Waiting for Result"
+14 / 11 / 2017
+
+                        Abdullah Nadeem wrote: "Good Luck for your Result"
+
+
+
+---Food Fusion is Making Kashmiri Chai (Pink Tea)   14 / 11 / 2017
+"Try this at home..."
+
+                        Food Fusion wrote: "Followrs please try this recipe and give your feedback"
+                        Amna Akram wrote: "Yummy"
+                        Ahsan Ali wrote: "One pink tea for me"
+
+
+
+
+---Al Jazeera English shared "Oil drilling in Alaska's indigenous communities is on the table again."
+14 / 11 / 2017
+
+
+
+
+---Rumi Quotes shared "Be free of possessing things - Rumi"
+15 / 11 / 2017
+
+                        Ali Ahmed wrote: "Rumi is great"
+
+
+
+
+ ----------------------------------------------------------
+
+
+----------------------------------------------------------
+Command:        View Timeline
+----------------------------------------------------------
+Abdullah Nadeem-View Timeline
+
+
+---Abdullah Nadeem is Celebrating a birthday   14 / 11 / 2017
+"Happy Birthday to my dear Mom"
+
+                        Waheed Khan wrote: "Happy Birthday Aunty"
+
+
+
+---Abdullah Nadeem is Celebrating a birthday   14 / 10 / 2017
+"Happy Birthday to my dear Father"
+
+                        Ahsan Ali wrote: "Happy Birthday Uncle"
+
+
+
+---Abdullah Nadeem is Celebrating Success   15 / 11 / 2015
+"Got D in toughest subject... Thanks God I am Pass finally..."
+
+                        Ahsan Ali wrote: "Celebrations???"
+
+
+
+
+ ----------------------------------------------------------
+
+
+ ----------------------------------------------------------
+ Commend   :    ViewLikedList(post5)
+
+Post Liked By:
+
+u2 - Muhammad Ali
+p1 - Food Fusion
+u3 - Waheed Khan
+u4 - Burhan Tahir
+
+ ----------------------------------------------------------
+
+
+ ----------------------------------------------------------
+ Commend   :    ViewLikedList(post5)
+
+Post Liked By:
+
+u2 - Muhammad Ali
+p1 - Food Fusion
+u3 - Waheed Khan
+u4 - Burhan Tahir
+u7 - Abdullah Nadeem
+
+ ----------------------------------------------------------
+
+
+
+ ----------------------------------------------------------
+Command:        Post Comment (post4 , Good Luck for your Result)
+Command:        View Post (post4)
+
+
+---Ali Ahmed shared "Waiting for Result"
+14 / 11 / 2017
+
+                        Abdullah Nadeem wrote: "Good Luck for your Result"
+                        Abdullah Nadeem wrote: "Good Luck for your Result"
+
+
+
+ ----------------------------------------------------------
+
+
+
+ ----------------------------------------------------------
+Command:        Post Comment (post8 , Thanks for the wishes)
+Command:        View Post (post8)
+
+
+---Abdullah Nadeem is Celebrating a birthday   14 / 11 / 2017
+"Happy Birthday to my dear Mom"
+
+                        Waheed Khan wrote: "Happy Birthday Aunty"
+                        Abdullah Nadeem wrote: "Thanks for the wishes"
+
+
+
+ ----------------------------------------------------------
+
+
+ ----------------------------------------------------------
+ Command   :    See Your Memories
+
+On this Day
+(2 years ago)
+---Abdullah Nadeem is Celebrating Success   15 / 11 / 2015
+"Got D in toughest subject... Thanks God I am Pass finally..."
+
+                        Ahsan Ali wrote: "Celebrations???"
+
+
+
+ ----------------------------------------------------------
+
+
+
+ ----------------------------------------------------------
+
+Command:        Share Memories (post10 , Never thought I will be specialist in this field...)
+
+ ----------------------------------------------------------
+
+
+----------------------------------------------------------
+Command:        View Timeline
+----------------------------------------------------------
+Abdullah Nadeem-View Timeline
+
+
+~~~~Abdullah Nadeem Shared Memory~~~~15 / 11 / 2017
+"Never thought I will be specialist in this field..."
+
+(2 years ago)
+---Abdullah Nadeem is Celebrating Success   15 / 11 / 2015
+"Got D in toughest subject... Thanks God I am Pass finally..."
+
+
+
+
+---Abdullah Nadeem is Celebrating a birthday   14 / 11 / 2017
+"Happy Birthday to my dear Mom"
+
+                        Waheed Khan wrote: "Happy Birthday Aunty"
+                        Abdullah Nadeem wrote: "Thanks for the wishes"
+
+
+
+---Abdullah Nadeem is Celebrating a birthday   14 / 10 / 2017
+"Happy Birthday to my dear Father"
+
+                        Ahsan Ali wrote: "Happy Birthday Uncle"
+
+
+
+---Abdullah Nadeem is Celebrating Success   15 / 11 / 2015
+"Got D in toughest subject... Thanks God I am Pass finally..."
+
+                        Ahsan Ali wrote: "Celebrations???"
+
+
+
+
+ ----------------------------------------------------------
+
+
+ ----------------------------------------------------------
+ Commend   :    ViewPage(p1)
+
+Food Fusion
+
+---Food Fusion is Making Kashmiri Chai (Pink Tea)   14 / 11 / 2017
+"Try this at home..."
+
+                        Food Fusion wrote: "Followrs please try this recipe and give your feedback"
+                        Amna Akram wrote: "Yummy"
+                        Ahsan Ali wrote: "One pink tea for me"
+
+
+
+---Food Fusion is Making Halwa Puri   10 / 11 / 2017
+"Sunday Special Breafast for our followers..."
+
+
+
+
+
+ ----------------------------------------------------------
+
+Command:        Set current user u11
+Ahsan Ali successfully set as current user
+
+Command:        View Friend List
+
+ ----------------------------------------------------------
+Ahsan Ali - Friend List
+u6 - Saad Ali
+u7 - Abdullah Nadeem
+u8 - Nimra Batool
+
+ ----------------------------------------------------------
+
+Command:        View Liked Pages
+
+ ----------------------------------------------------------
+Ahsan Ali - Liked Pages
+p1 - Food Fusion
+
+ ----------------------------------------------------------
+
+
+Command:        View Home
+----------------------------------------------------------
+Ahsan Ali- Home Page
+
+---Abdullah Nadeem is Celebrating a birthday   14 / 11 / 2017
+"Happy Birthday to my dear Mom"
+
+                        Waheed Khan wrote: "Happy Birthday Aunty"
+                        Abdullah Nadeem wrote: "Thanks for the wishes"
+
+
+
+
+
+---Food Fusion is Making Kashmiri Chai (Pink Tea)   14 / 11 / 2017
+"Try this at home..."
+
+                        Food Fusion wrote: "Followrs please try this recipe and give your feedback"
+                        Amna Akram wrote: "Yummy"
+                        Ahsan Ali wrote: "One pink tea for me"
+
+
+
+
+
+ ----------------------------------------------------------
+
+
+----------------------------------------------------------
+Command:        View Timeline
+----------------------------------------------------------
+Ahsan Ali-View Timeline
+
+
+---Ahsan Ali shared "Waiting for Weekend"
+14 / 11 / 2017
+
+                        Saad Ali wrote: "Any plans for Get Together?"
+                        Abdullah Nadeem wrote: "Yes BBQ"
+                        Nimra Batool wrote: "Lunch Buffet please"
+
+
+
+
+ ----------------------------------------------------------
+
+Press any key to continue . . .
